@@ -11,11 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Digitteck.HubNotificationSystem")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Digitteck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Digitteck.HubNotificationSystem")]
+[assembly: System.Reflection.AssemblyProductAttribute("HubNotificationSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Digitteck.HubNotificationSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
