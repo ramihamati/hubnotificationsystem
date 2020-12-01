@@ -1,0 +1,12 @@
+E:\gitexpo\hubnotificationsystem\Digitteck.HubNotificationSystem\Digitteck.HubNotificationSystem\obj\Debug\net5.0\Digitteck.HubNotificationSystem.csprojAssemblyReference.cache
+E:\gitexpo\hubnotificationsystem\Digitteck.HubNotificationSystem\Digitteck.HubNotificationSystem\obj\Debug\net5.0\Digitteck.HubNotificationSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\gitexpo\hubnotificationsystem\Digitteck.HubNotificationSystem\Digitteck.HubNotificationSystem\obj\Debug\net5.0\Digitteck.HubNotificationSystem.AssemblyInfoInputs.cache
+E:\gitexpo\hubnotificationsystem\Digitteck.HubNotificationSystem\Digitteck.HubNotificationSystem\obj\Debug\net5.0\Digitteck.HubNotificationSystem.AssemblyInfo.cs
+E:\gitexpo\hubnotificationsystem\Digitteck.HubNotificationSystem\Digitteck.HubNotificationSystem\obj\Debug\net5.0\Digitteck.HubNotificationSystem.csproj.CoreCompileInputs.cache
+E:\gitexpo\hubnotificationsystem\Digitteck.HubNotificationSystem\Digitteck.HubNotificationSystem\bin\Debug\net5.0\Digitteck.HubNotificationSystem.deps.json
+E:\gitexpo\hubnotificationsystem\Digitteck.HubNotificationSystem\Digitteck.HubNotificationSystem\bin\Debug\net5.0\Digitteck.HubNotificationSystem.dll
+E:\gitexpo\hubnotificationsystem\Digitteck.HubNotificationSystem\Digitteck.HubNotificationSystem\bin\Debug\net5.0\ref\Digitteck.HubNotificationSystem.dll
+E:\gitexpo\hubnotificationsystem\Digitteck.HubNotificationSystem\Digitteck.HubNotificationSystem\bin\Debug\net5.0\Digitteck.HubNotificationSystem.pdb
+E:\gitexpo\hubnotificationsystem\Digitteck.HubNotificationSystem\Digitteck.HubNotificationSystem\obj\Debug\net5.0\Digitteck.HubNotificationSystem.dll
+E:\gitexpo\hubnotificationsystem\Digitteck.HubNotificationSystem\Digitteck.HubNotificationSystem\obj\Debug\net5.0\ref\Digitteck.HubNotificationSystem.dll
+E:\gitexpo\hubnotificationsystem\Digitteck.HubNotificationSystem\Digitteck.HubNotificationSystem\obj\Debug\net5.0\Digitteck.HubNotificationSystem.pdb
